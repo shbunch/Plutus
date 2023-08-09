@@ -26,7 +26,7 @@ This was our groups first full stack application that we developed from scratch,
 
 ## Installation
 
-Click (here) to visit the Plutus application or scan the QR code below: <br>
+Click [here](https://cryptic-coast-09384-0756af69f6b6.herokuapp.com/) to visit the Plutus application or scan the QR code below: <br>
 <p align='center'>
 <a href='https://cryptic-coast-09384-0756af69f6b6.herokuapp.com/'><img src='./public/asset/shbunch-plutus.png' width="60%"></a>
 </p>
