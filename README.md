@@ -28,11 +28,11 @@ This was our groups first full stack application that we developed from scratch,
 
 Click (here) to visit the Plutus application or scan the QR code below: <br>
 <p align='center'>
-<a href='https://plutus-budgeting-ed67f205c52b.herokuapp.com/'><img src='./public/asset/PLUTUS.png' width="60%"></a>
+<a href='https://cryptic-coast-09384-0756af69f6b6.herokuapp.com/'><img src='./public/asset/shbunch-plutus.png' width="60%"></a>
 </p>
 
 <p align='center'>
-<a href='https://github.com/sucheta90/Plutus'><img src='./public/asset/Plutus_githubRepo.png' width="60%"></a>
+<a href='https://github.com/shbunch/Plutus'><img src='./public/asset/shbunch-github.png' width="60%"></a>
 </p>
 
 
@@ -70,10 +70,6 @@ The transactions tab will allow you to calculate your remaining balance for a gi
 
 ---
 
-
-
-
-
 <b>Trip Budget:</b>
 
 The Trip Budget tab will allow the user to add expenses for an upcoming trip. Add a trip expense and give it a category. Enter the number of instances for this cost in the quantity field, then add the cost per unit in the unit cost field. The total value of this will be calculated and presented in the Amount column. Continue to add trip expenses as needed.
@@ -98,5 +94,8 @@ SMU Coding Bootcamp
 
 [Pie Charts](https://www.highcharts.com/demo#highcharts-demo-pie-charts)
 
+## Badges
+
+![javascript](https://img.shields.io/badge/javascript-55.1%-red) ![javascript](https://img.shields.io/badge/handlebars-34.6%-orange) ![javascript](https://img.shields.io/badge/html-9.3%-blue) ![javascript](https://img.shields.io/badge/css-1.0%-purple)
 
 
